@@ -2,8 +2,9 @@
 Xiaohongshu ABC Book Fair Poster Infringement Incident
 参见：《abc也撞车了》https://mp.weixin.qq.com/s/BJXf5s9Yni6FLUvp2CRtBQ?token=542605722&lang=zh_CN
 abc艺术书展官方网站,表明：小红书旗下项目，
-欢迎熟悉知识产权的网友提供协助.
-协助查处此事，正本清源.
+
+* 欢迎熟悉知识产权的网友提供协助.协助查处此事，正本清源.
+* Welcome netizens familiar with intellectual property to provide assistance.Assist in investigating and resolving this matter, and rectify the root cause
 
 ##  摘录：
 * abc ARTBook 艺术书展，这次设计主体，其中一个核心就是字体，特别是中文前文字体的应用，包括现场吊顶的彩带，海报，都采用了非常前卫的字体，特别是中文字体。
